@@ -1,0 +1,67 @@
+*{
+    margin:8px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo,.travel{
+    display: inline-block;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 600;
+    padding:10px 20px;
+    border-radius: 10px;
+}
+.location{
+    display: inline-block;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 67%;
+    
+}
+.logo{
+    background-color: yellow;
+}
+.travel{
+    background-color: #e2e2e2;
+}
+.mid input{
+    border: 2px solid dodgerblue;
+    outline: none;
+    width:80%;
+    padding: 14px;
+}
+.bottom .box{
+    display: inline-block;
+    width :60px;
+    height: 30px;
+    background-color: slateblue;
+}
+.image img{
+    border-radius: 8px;
+    width:350px;
+    height: 200px;
+
+}
+.contianer{
+    width: 100%;
+    height: auto;
+    background-color: yellowgreen;
+
+}
+#recommendation{
+    width: 100%;
+    height: auto;
+    background-color:yellowgreen;
+}
+.item{
+    display: inline-block;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.description,.about,.help{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15%;
+}
